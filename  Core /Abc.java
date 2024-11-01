@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 interface I5
 {
@@ -22,3 +23,4 @@ class Abc
     ob.prime(5);
   }
 }
+*/

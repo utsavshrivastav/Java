@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Bnk extends Blogin
 {
@@ -96,4 +97,4 @@ public static void main(String arg[])
   ob.menu();
  }
 }
-
+*/

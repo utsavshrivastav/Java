@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Simple
  {
@@ -23,3 +24,4 @@ class Simple
             
    }   
  }
+*/

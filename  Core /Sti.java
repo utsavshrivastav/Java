@@ -1,4 +1,5 @@
-import java.util.Scanner;
+ /*
+ import java.util.Scanner;
 class Sti1
 {
   
@@ -17,3 +18,4 @@ class Sti
      ob.show();
    }
 }
+   */

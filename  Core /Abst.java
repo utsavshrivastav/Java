@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 abstract class Abs
 {
@@ -21,4 +22,4 @@ class Abst extends Abs
     ob.set();
    }
 }
-
+*/

@@ -1,3 +1,5 @@
+
+/*
 import java.util.Scanner;
 class Mtho
 {
@@ -24,3 +26,4 @@ class Mtho
        ob.area(3.0);
       }
 }
+*/

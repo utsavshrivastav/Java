@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Mth extends Thread
 {
@@ -20,3 +21,4 @@ class Mth extends Thread
      }
    }
 }
+*/

@@ -1,4 +1,6 @@
-import java.util.Scanner;
+ 
+ /*
+ import java.util.Scanner;
 class A
 {
   int a,b;
@@ -49,3 +51,4 @@ class Ml
      ob.cal();    
    }
 }
+*/

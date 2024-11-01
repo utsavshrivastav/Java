@@ -1,4 +1,5 @@
-import java.util.Scanner;
+ /*
+ import java.util.Scanner;
 class Eo
 {
 
@@ -14,7 +15,7 @@ class Eo
       }
    }
 }
-
+*/
 
 
 

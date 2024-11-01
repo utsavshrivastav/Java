@@ -1,3 +1,4 @@
+/*
 class Pi
 {
  void show()
@@ -21,3 +22,4 @@ class Miu
    ob.show();  
  }
 }
+*/

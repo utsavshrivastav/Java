@@ -1,3 +1,4 @@
+/*
 class Mth1 extends Thread
 {
   public Mth1(String name)
@@ -19,3 +20,4 @@ class Mth1 extends Thread
     System.out.println("Thread Name="+Thread.currentThread().getName());  
     }
 }
+*/

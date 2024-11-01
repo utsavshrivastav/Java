@@ -1,3 +1,4 @@
+/* 
 import java.util.Scanner;
 class Pp
 {
@@ -25,3 +26,4 @@ class Cc extends Pp
 
     }
 }
+*/

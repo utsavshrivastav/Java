@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Restro
 {
@@ -83,3 +84,4 @@ class Restro
         }while(choice=='y' || choice=='Y');
     }
 }
+*/

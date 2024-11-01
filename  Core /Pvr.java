@@ -1,3 +1,4 @@
+/*
 class Mba
 {
   int ts=10;
@@ -44,3 +45,4 @@ class Pvr extends Thread
       Govind.start();     
      }
 }
+*/

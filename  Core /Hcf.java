@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Hcf
 {
@@ -38,3 +39,4 @@ class Hcf
        obj.cal();     
      }
 }
+*/

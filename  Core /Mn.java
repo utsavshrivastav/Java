@@ -1,4 +1,5 @@
-class Mn
+ /*
+ class Mn
 {
    public static void main(String arg[])
    {
@@ -7,3 +8,4 @@ class Mn
    System.out.println(ob.a);
    }
 }
+*/

@@ -1,4 +1,5 @@
-class St
+ /* 
+ class St
 {
  static int count=0;
   public St()
@@ -14,3 +15,4 @@ class St
       St ob3=new St();
     }
 }
+*/

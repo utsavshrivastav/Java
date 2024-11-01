@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Nfe
 {
@@ -17,3 +18,4 @@ class Nfe
 
   }
 }
+*/

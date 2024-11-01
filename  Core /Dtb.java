@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 abstract class Bin1
 {
@@ -37,3 +38,4 @@ class Dtb extends Bin1
       ob.convert();    
     }
 }
+*/

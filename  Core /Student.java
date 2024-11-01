@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ /*import java.util.Scanner;
 class Student
 {
   String name;
@@ -32,3 +32,4 @@ class Student
       obj.show();
      }
 }
+*/

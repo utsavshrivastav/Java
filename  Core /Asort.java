@@ -1,3 +1,4 @@
+/*
 import p.r.Ar;
 import java.util.Scanner;
 class Asort
@@ -16,3 +17,4 @@ class Asort
       ob.sort(a);
    }
 }
+*/

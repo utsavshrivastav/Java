@@ -1,3 +1,4 @@
+/*
 class P
 {
   private int a,b;
@@ -24,3 +25,4 @@ class Mi
 
    }
 }
+*/

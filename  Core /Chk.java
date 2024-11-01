@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 class Chk
 {
@@ -20,3 +21,4 @@ class Chk
       obj.set();    
     }
 }
+*/
