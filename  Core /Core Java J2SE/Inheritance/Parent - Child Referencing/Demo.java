@@ -30,4 +30,6 @@ Child Class Reference Cannot Store Object of Parent class  ( aise me ERROR gener
             index ob = new demo();
             ob.show();                  --> error dega aisa possible nhi hain . 
 
+            
+
  */
