@@ -1,7 +1,7 @@
 import java.util.Scanner
- public class arithmatic
-{
-    int a , b, c;
+import
+ class arithmatic {
+    int a,b,c;
     Scanner ip;
     public arithematic()
     {
@@ -28,6 +28,6 @@ import java.util.Scanner
     }
     public static void main(String arg[])
     {
-        new arithmatic().div();
+        new arithmatic().div(); /* anonymous object */
     }
 }
