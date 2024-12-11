@@ -1,22 +1,24 @@
-import java.util.Scanner
-import
- class arithmatic {
+import java.util.Scanner;
+import java.util.InputMismatchException;
+
+  class Demo 
+    {
     int a,b,c;
     Scanner ip;
-    public arithematic()
+    public Demo()
     {
         ip = new Scanner(System.in);
     } 
     void div()
     {
-        try{
+        try
+        {
             System.out.println("Enter a and b");
             a = ip.nextInt();
             b = ip.nextInt();
             c = a/b;
-
         }
-        catch(Arithmatic Exception e)
+        catch(ArithmeticException e)
         {
             e.printStackTrace();
         }
@@ -28,6 +30,7 @@ import
     }
     public static void main(String arg[])
     {
-        new arithmatic().div(); /* anonymous object */
+        new Demo().div(); /* anonymous object*/ 
     }
 }
+
